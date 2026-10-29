@@ -1,0 +1,6 @@
+#contHeader {
+    width: 90vw;
+    background-color: var(--accent);
+    color: var(--code-bg);
+    margin: 10px auto;
+}
